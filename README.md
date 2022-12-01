@@ -6,4 +6,12 @@
 
 3- npm install @react-navigation/stack
 
-4- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-masked-view/masked-view
+4- expo install react-native-gesture-handler
+
+5- expo install react-native-reanimated
+
+6- expo install react-native-screens
+
+7- expo install react-native-safe-area-context
+
+8- expo install @react-masked-view/masked-view
